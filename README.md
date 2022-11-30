@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aman
+- 👋 Hi, I’m Aman and I am currently working in as a Data Scientist with Walmart
 - 👀 I’m interested in anything data
 - 🌱 I’m currently learning Cloud Computing and MLOps.
 - 💞️ I’m looking to collaborate on projects related to Data Analytics-Reporting, Data Engineering, Data Science and Data Warehousing.
