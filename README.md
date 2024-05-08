@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aman and I am working as a data scientist with a product based company. I have worked with both with both service based and product based companies.
-- 👀 I have a total of 7 years of experience in data science and analytics
+- 👀 I have a total of 7 years of experience in data science and analytics and have worked with ZS Associates, EXL Services and Walmart in the past
 - 👀 I’m interested in anything data
 - 🌱 I’m currently learning Cloud Computing, LLMs and MLOps.
 - 💞️ I’m looking to collaborate on projects related to Data Analytics-Reporting, Data Engineering, Data Science and Data Warehousing.
