@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aman and I am working as a AI Engineer/ Data scientist with State Street Bank. I have worked with both with both service based and product based companies i.e. ZS Associates, EXL Services, Walmart and Microsoft.
+- 👋 Hi, I’m Aman and I am working as a AI Engineer/ Data scientist with State Street Bank. I have worked with both service based and product based companies i.e. ZS Associates, EXL Services, Walmart and Microsoft.
 - 👀 I have a total of 9 years of experience in data science and analytics.
 - 👀 I’m interested in anything data
 - 🌱 I’m currently learning Agentic AI and LLMOps.
