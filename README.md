@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Aman and I am working as a AI Engineer/ Data scientist with PepsiCo. I have worked with both service based and product based companies i.e. ZS Associates, EXL Services, Walmart, Microsoft, and State Street.
-- 👀 I have a total of 9 years of experience in data science and analytics.
+- 👋 Hi, I’m Aman and I am working as a AI/ML Architect with an FMCG beverages company. Prior to this I have worked with i.e. ZS Associates, EXL Services, Walmart, Microsoft, and State Street.
+- 👀 I have a total of ~11 years of experience in data science and analytics.
 - 👀 I’m interested in anything data
 - 🌱 I’m currently learning Agentic AI and LLMOps.
 - 💞️ I’m looking to collaborate on projects related to Data Analytics-Reporting, Data Engineering, Data Science and Data Warehousing.
